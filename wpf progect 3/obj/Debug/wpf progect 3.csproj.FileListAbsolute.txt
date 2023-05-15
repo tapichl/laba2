@@ -1,0 +1,38 @@
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\bin\Debug\wpf progect 3.exe.config
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\bin\Debug\wpf progect 3.exe
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\bin\Debug\wpf progect 3.pdb
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\bin\Debug\MaterialDesignColors.dll
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\bin\Debug\MaterialDesignColors.pdb
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\obj\Debug\wpf progect 3.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\obj\Debug\wpf progect 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\obj\Debug\MainWindow.g.cs
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\obj\Debug\App.g.cs
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\obj\Debug\wpf progect 3_MarkupCompile.cache
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\obj\Debug\wpf progect 3_MarkupCompile.lref
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\obj\Debug\App.baml
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\obj\Debug\MainWindow.baml
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\obj\Debug\wpf progect 3.g.resources
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\obj\Debug\wpf_progect_3.Properties.Resources.resources
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\obj\Debug\wpf progect 3.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\obj\Debug\wpf progect 3.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\obj\Debug\wpf progect 3.csproj.CopyComplete
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\obj\Debug\wpf progect 3.exe
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\obj\Debug\wpf progect 3.pdb
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\bin\Debug\EntityFramework.dll
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\bin\Debug\System.Data.SQLite.dll
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\bin\Debug\EntityFramework.xml
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\bin\Debug\System.Data.SQLite.xml
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\obj\Debug\Window1.g.cs
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\obj\Debug\Window1.baml
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\obj\Debug\UserCorner.g.cs
+C:\Users\andre\source\repos\wpf progect 3\wpf progect 3\obj\Debug\UserCorner.baml
